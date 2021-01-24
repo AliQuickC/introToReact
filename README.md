@@ -1,3 +1,7 @@
+#Intro to React
+interactive tic-tac-toe game with React
+интерактивная игра в крестики-нолики
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
